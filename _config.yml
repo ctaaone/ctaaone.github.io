@@ -1,7 +1,36 @@
 remote_theme: thelehhman/texture
+theme: texture
 
 
-title: F L O A T I N G
+texture:
+  title: Floating dev atelier
+  tagline: Developer
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter:
+    github: ctaaone
+    linkedIn:  # format: locale/username
+  
+  style: [purple]
+  
+  showPicker: [false]
+
+  analytics_id: 'ctaaone5386'
+
+  showNav: true
+  
+  navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: Resume
+      url: "/resume"
+
+
+
+
+
+title: Floating dev atelier
 author: Lahan
 email: ctaaone5386@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
