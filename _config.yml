@@ -12,9 +12,9 @@ texture:
     github: ctaaone
     linkedIn:  # format: locale/username
   
-  style: [purple]
+  style: purple
   
-  showPicker: [false]
+  showPicker: false
 
   analytics_id: 'ctaaone5386'
 
